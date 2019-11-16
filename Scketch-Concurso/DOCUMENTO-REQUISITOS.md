@@ -42,6 +42,29 @@ Não se aplica.
 
 ## INTERFACES DOS SISTEMA
 
+### WEB
+
+<table>
+    <tr>
+        <td><img src="imgs/web/sketch-1.png" width="200"></td>
+         <td><img src="imgs/web/sketch-2.png" width="200"></td>
+        <td><img src="imgs/web/sketch-3.png" width="200"></td>
+    </tr>
+    <tr>
+        <td><img src="imgs/web/sketch-4.png" width="200"></td>
+        <td><img src="imgs/web/sketch-5.png" width="200"></td>
+        <td><img src="imgs/web/sketch-6.png" width="200"></td>
+    </tr>
+     <tr>
+        <td><img src="imgs/web/sketch-7.png" width="200"></td>
+        <td><img src="imgs/web/sketch-8.png" width="200"></td>
+        <td><img src="imgs/web/sketch-9.png" width="200"></td>
+    </tr>
+    <tr>
+        <td><img src="imgs/web/sketch-10.png" width="200"></td>
+    </tr>
+</table>
+
 ### MOBILE 
 
 <table>
