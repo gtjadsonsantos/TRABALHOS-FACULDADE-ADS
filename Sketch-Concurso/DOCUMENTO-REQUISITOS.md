@@ -76,9 +76,10 @@ Não se aplica.
     <tr>
         <td><img src="imgs/mobile/Sketch-Criar-Conta.svg" width="200"></td>
         <td><img src="imgs/mobile/Sketch-Lancar-Notas.svg" width="200"></td>
-    </tr>
-     <tr>
-        <td><img src="imgs/mobile/Sketch-Notas.svg" width="200"></td>
+         <td><img src="imgs/mobile/Sketch-Notas.svg" width="200"></td>
     </tr>
 </table>
+
+
+#### Live Mobile
 

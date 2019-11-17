@@ -1,3 +1,4 @@
-# Trabalhos-Faculdade-ADS
+# Trabalhos do Curso de ADS
 
-Respositório contém todos os trabalhos realizador no curso de analise e desenvolvimento de sistemas 😎🤓
+Respositório contém todos os trabalhos realizados no curso de analise e desenvolvimento de sistemas 😎🤓
+
